@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(19, 19, 18);
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    align-items: center;
+}
+
+.hi:hover{
+    color: rgb(221, 218, 218);
+
+}
+
+.h1{
+    font-size: 40px;
+}
+
+.abc{
+    width: auto;
+    height: 80px;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    color: aliceblue;
+
+}
+
+.main{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 70px;
+
+}
+
+.one{
+    font-size: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   display: grid;
+   padding-bottom: 100px;
+}
+
+.main1 ,.one, h1{
+    font-size: 30px;
+
+}
+
+.two{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    
+}
+
+.end{
+   background-color: black; 
+}
+
+.end1{
+    display: grid;
+    gap: 30px;
+    text-align: center;
+    align-items: center;
+    padding: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.icons img{
+    border: 1px solid black;
+    border-radius: 100%;
+    height: 40px;
+    width: 40px;
+}
+
+/* .main3 col img{
+    height: 1100px;
+    width: 1000px;
+} */
+
+.main4 col img{
+    height: 500px;
+    width: 500px
+}
+
+.card-body{
+    font-size: 36px;
+}
+
